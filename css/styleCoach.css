@@ -1,0 +1,30 @@
+img {
+    width: 200px;
+    margin: 0 auto;
+}
+
+.carousel {
+    margin: 5% auto;
+    border-radius: 10%;
+    height: 490px;
+    width: 450px;
+}
+main {
+    background: -moz-linear-gradient(left, #CE7E89 0%, #9098A5 43%, #979503 100%);
+    background: -webkit-linear-gradient(left, #CE7E89 0%, #9098A5 43%, #979503 100%);
+    background: linear-gradient(to right, #CE7E89 0%, #9098A5 43%, #979503 100%);
+    padding-bottom: 5%;
+    margin-bottom: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
+    border-radius: 15px 50px;
+    margin-bottom: 5%;
+    padding-top: 5%;
+    box-shadow: -30px -30px 30px;
+}
+h1{
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: white -5px -5px 5px;
+}

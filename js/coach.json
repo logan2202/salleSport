@@ -1,0 +1,35 @@
+[
+    {
+        "id": "1",
+        "photoURL": "img/CelineV2rt.jpg",
+        "description": "Céline vous accompagne pour vous permettre de retrouver l’harmonie du corps et de l’esprit",
+        "nom": "Bachelard",
+        "prenom": "Céline",
+        "pseudo": "",
+        "couleur": "green",
+        "titre": "Educatrice sportive",
+        "bioURL": "<p>Adolescente, Céline est en situation d’obésité, conséquence d’un trouble de conduite alimentaire. Elle décide avec son médecin de se mettre au sport. Inscrite dans une salle de musculation, elle tombe amoureuse du fitness. Céline se forme aussi à la Zumba, danse qu’elle enseignera en bénévole dans une association. Elle décide de faire de sa passion pour le sport son métier en intégrant la formation d’éducatrice sportive. En parallèle de son métier, Céline s’adonne à la danse sportive et la danse de salon. Elle coanime des stages dans ces domaines. Les activités de Céline sont très variées : musculation, cross training, Pilates, yoga, danse, cours fitness,…</p> <div id=diplome> <ul> <li>BPJEPS AGFF</li> <p>AFOPE Bordeaux 2017 </p> <p>Céline obtient le Brevet Professionnel de la Jeunesse, de l’Education Populaire et du Sport, spécialité Activités Gymniques de la Forme et de la Force.</p> <li>Certifiée Instructeur Pilates</li> <p>LeaderFit 2018</p> <p>Tous niveaux, femmes enceintes, sénior, thérapie et le dernier, Pilates adapté au Cancer du sein.</p> <li>Posturologie</li> <p>LeaderFit 2019</p> <p>Agir sur la posture des personnes accompagnées pour une meilleure santé et des performances accrues. Céline adaptera en particulier les mouvements en fonction des pathologies du dos pour ainsi le renforcer et l’étirer.</p> <li>Éducatrice Sportive</li> <p>Training Form 2020</p> </ul> </div>"
+    },
+    {
+        "id": "2",
+        "photoURL": "img/MagaliV2rt.jpg",
+        "description": "Magali vous accompagne pour vous permettre de retrouver l’harmonie du corps et de l’esprit",
+        "nom": "Gobart",
+        "prenom": "Magali",
+        "pseudo": "",
+        "couleur": "pink",
+        "titre": "Professeure de Yoga et Pilates",
+        "bioURL": "<p>Magali a acquis de ses différentes expériences de solides connaissances théoriques et pratiques du yoga appliquées aux postures et techniques de respirations. De plus, elle a développé, au fil des années de pratique, une expertise dans l’enseignement de la gymnastique Pilates. Son sens de l’écoute, sa bienveillance et ses qualités de pédagogue vous permettront de tirer pleinement profit de son enseignement. Enfin, l’application de ses connaissances en anatomie et physiologie humaines vous permettront d’effectuer les activités proposées en toute sécurité. En complément des cours collectifs, Magali propose aussi des séances de coaching individuel</p> <div id=diplome> <ul> <li>Diplôme d'éducatrice sportive</li> <p>IMPS Tours 2004</p> <p>Passionnée de gymnastique artistique et de danse depuis toujours, Magali envisage de faire de sa passion son métier. Elle intègre l’Institut des Métiers du Sport de Tours pour se former à l’animation et l’encadrement des activités de la remise en forme.</p> <li>Professeur certifié Yoga RYS200</li> <p>Vedangas Rishikesh 2013</p> <p>A la recherche d’une pratique plus traditionnelle du Yoga, Magali part en Inde en 2013. Magali se perfectionne à la pratique d’un Yoga des origines au sein de l’école Vedangas. A l’issue de son parcours de formation, Magali obtient le diplôme de professeur de yoga (yoga shastri RYS200 ). Cette reconnaissance lui ouvre les portes de l’enseignement et la propagation de cette discipline.</p> <li>Professeure de Yoga et Pilates</li> <p>Training Form depuis 2016</p> <p>Magali poursuit avec passion l’enseignement du hatha yoga et du Pilates. Elle a de plus repris la conduite de la société Training Form à la suite de son père, fondateur de celle-ci. Elle est accompagnée dans cette mission de son compagnon Alessandro, indispensable adjoint, et de leur fille Emma.</p> </ul> </div>"
+    },
+    {
+        "id": "3",
+        "photoURL": "img/MelanieV2rt.jpg",
+        "description": "Mélanie contribuera à l’épanouissement de votre corps et de votre esprit",
+        "nom": "Olivia",
+        "prenom": "Mélanie",
+        "pseudo": "",
+        "couleur": "gray",
+        "titre": "Educatrice sportive",
+        "bioURL": "<p>Mélanie pratique le sport depuis son enfance. Elle a exercé diverses disciplines comme la natation, la course à pied et la gymnastique. Faire de ces activités son métier la conduit naturellement à suivre le cursus STAPS. Diplômée du Brevet d’Etat des Métiers de la Forme, elle exerce depuis plusieurs années le métier d’éducatrice sportive. Après plusieurs expériences enrichissantes, la voici de retour en Corrèze après s’être formée à la méthode Pilates ainsi qu’au Hatha Yoga</p> <div id=diplome> <ul> <li>Formation universitaire</li> <p>Licence Pro APPN 2009</p> <p>Après un Deug STAPS, Mélanie acquière les compétences nécessaires à la mise en oeuvre, le développement et l’évaluation de projets et d’événements dans le domaine des activités physiques de pleine nature.</p> <li>BPJEPS AGFF</li> <p>Éducatrice sportive 2012</p> <p>Mélanie obtient le Brevet Professionnel de la Jeunesse, de l’Education Populaire et du Sport, spécialité Activités Gymniques de la Forme et de la Force. Ce diplôme d’état lui permet de mettre son expérience au profit des adhérents des salles de sport.</p> <li>Éducatrice Sportive</li> <p>Training Form</p> <p>Mélanie exerce comme éducatrice sportive dans différentes salles de sport. Elle rejoint l’équipe de Training Form en 2019</p> </ul> </div>"
+    }
+]
