@@ -24,7 +24,12 @@
         "href": "contacts.html#carte"
     },
     {
+        "menu": "Activité",
+        "href": "activité.html"
+    },
+    {
         "menu": "Contact",
         "href": "contacts.html"
     }
+    
 ]

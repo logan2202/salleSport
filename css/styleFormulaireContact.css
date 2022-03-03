@@ -6,9 +6,10 @@
     border-radius: 10px;
     padding: 10px;
     color: white;
-    margin-top: 2%;
+    margin-top: 5%;
     width: 650px;
     box-shadow: 5px 5px 15px 5px #000000;
+    margin-bottom: 5%;
 }
 
 .laMap {
@@ -16,11 +17,13 @@
     border-radius: 10px ;
     margin: auto;
     width: 650px;
+    height: 800px;
     padding: 37px;
-    margin-top: 2%;
+    margin-top: 5%;
     color: white;
     text-align: center;
     box-shadow: 5px 5px 15px 5px #000000;
+    margin-bottom: 5%;
 }
 .laMap a {
     text-decoration: none;
@@ -55,11 +58,6 @@
 .bgFalse {
     background-color: tomato;
 }
-
-.bgTrue {
-    background-color: green;
-}
-
 .false {
     color: white;
     background-color: red;
@@ -88,7 +86,7 @@
 #map {
     margin-top: 7%;
     background-color: white;
-    height: 550px;
+    height: 600px;
     width: 100%;
     border-radius: 25%;
 }
@@ -102,19 +100,18 @@
     justify-content: center;
 }
 
-iframe{
+#carte iframe{
     border-radius: 50px  5px ;
+    height: 100%;
 }
 
 @media screen and (max-width : 375px){
     .laMap {
-        margin: 0%;
-        margin-top: 15%;
+        margin: 5% 0%;
     }  
     .contact {
-        margin: 0%;
-        margin-top: 15%;
-    } 
+        margin: 5% 0%;
+           } 
     .row {
         --bs-gutter-x: 0; 
     }
@@ -122,9 +119,6 @@ iframe{
 
 @media screen and (max-width : 990px) {
     .contact {
-        padding-left: 5%;
-    }
-    .laMap {
         padding-left: 5%;
     }
     main {
