@@ -1,0 +1,77 @@
+/* Debut du CSS pour le Header et le Footer*/
+header{
+    padding-top: 1%;
+    height: 20%;
+    background: -moz-linear-gradient(left, #CE7E89 0%, #9098A5 43%, #979503 100%);
+    background: -webkit-linear-gradient(left, #CE7E89 0%, #9098A5 43%, #979503 100%);
+    background: linear-gradient(to right, #CE7E89 0%, #9098A5 43%, #979503 100%);
+}
+#event{    
+    color: black;
+    text-decoration: none;
+}
+.choix{
+    color: white;
+    text-decoration: none;
+    margin-bottom: 15%;
+}
+#logo{
+    width: 10%;
+    margin-right: 15%;
+}
+#title{
+    font-size:4.5vw;
+    font-style: italic;
+    text-shadow: black -5px -5px 5px;
+}
+#menu{
+    float: right;
+    margin-top: 2.5%;
+
+}
+#nav{
+    background-color: #4b4b4b !important;
+}
+#offcanvasNavbar{
+    width: 175px;
+    height: 400px;
+    background-color: #4b4b4b;
+}
+.marquee-rtl {
+    margin: 1em auto 2em;
+    border: 5px solid #4b4b4b;
+    overflow: hidden;                     /* masque tout ce qui dépasse */
+    box-shadow: 0 .25em .5em #CCC,inset 0 0 1em .25em #CCC;
+}
+.marquee-rtl > :first-child {
+    display: inline-block;                /* modèle de boîte en ligne */
+    padding-right: 2em;                   /* un peu d'espace pour la transition */
+    padding-left: 100%;                   /* placement à droite du conteneur */
+    white-space: nowrap;                  /* pas de passage à la ligne */
+    animation: defilement-rtl 15s infinite linear;
+    text-decoration: none;
+}
+@keyframes defilement-rtl {
+    0% {
+      transform: translate3d(0,0,0);      /* position initiale à droite */
+    }
+    100% {
+      transform: translate3d(-100%,0,0);  /* position finale à gauche */
+    }
+}
+footer{
+    background-color: rgb(75, 75, 75);
+    color: white;
+    padding: 3%;
+}  
+footer a{
+    text-decoration: none;
+    color: white;
+}
+footer .icones{
+    width: 3%;
+}
+.top{
+    margin-top: 2%;
+}
+/* Fin du CSS pour le Header et le Footer*/

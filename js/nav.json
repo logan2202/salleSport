@@ -1,0 +1,30 @@
+[
+    {
+        "menu": "Accueil",
+        "href": "accueil.html"
+    },
+    {
+        "menu": "Tarifs",
+        "href": "tarif.html"
+    },
+    {
+        "menu": "Planning",
+        "href": "planning.html"
+    },
+    {
+        "menu": "Cours",
+        "href": "cours.html"
+    },
+    {
+        "menu": "Coachs",
+        "href": "coachs.html"
+    },
+    {
+        "menu": "Localisation",
+        "href": "contacts.html#carte"
+    },
+    {
+        "menu": "Contact",
+        "href": "contacts.html"
+    }
+]

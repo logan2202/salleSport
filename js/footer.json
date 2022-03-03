@@ -1,0 +1,22 @@
+[
+    {
+        "text": " 7 rue du Lieutenant-Colonel Jean Vérines 19100 Brive-la-Gaillarde",
+        "href": "contacts.html#carte",
+        "src": "img/adresse.png"
+    },
+    {
+        "text": " 05.55.17.24.42",
+        "href": "tel:+33555172442",
+        "src": "img/tel.png"
+    },
+    {
+        "text": " trainingform@outlook.fr",
+        "href": "mailto:trainingform@outlook.fr",
+        "src": "img/mail.png"
+    },
+    {
+        "text": " Facebook",
+        "href": "https://www.facebook.com/Brive19/",
+        "src": "img/facebook.png"
+    }
+]

@@ -1,0 +1,56 @@
+#image{
+    width: 75%;
+    margin-top: 10%;
+    margin-bottom: 15%;
+}
+#presentation{
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 20px;
+    color: white;
+}
+#presentation h2{
+    text-shadow: white -5px -5px 5px;
+    color: black;
+}
+main{
+    background: -moz-linear-gradient(left, #CE7E89 0%, #9098A5 43%, #979503 100%);
+    background: -webkit-linear-gradient(left, #CE7E89 0%, #9098A5 43%, #979503 100%);
+    background: linear-gradient(to right, #CE7E89 0%, #9098A5 43%, #979503 100%);
+    padding-bottom: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    border-radius: 50px;
+    margin-bottom: 10%;
+}
+.icon{
+    width: 2%;
+}
+#activites{
+    margin-top: 10%;
+    margin-left: 15%;
+}
+#activites a{
+ 
+    text-decoration: none;
+    font-size: 15px;
+    color: white;
+}
+#activites a img{
+    width: 50%;
+    text-decoration: none;
+}
+#activites a .icon{
+    width: 5%;
+    margin: 5%;
+}
+#horaires{
+    margin-top: 20%;
+}
+p{
+    color: white;
+}
+#activites .act{
+margin-bottom: 10%;
+}
