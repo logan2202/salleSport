@@ -16,16 +16,16 @@
         "href": "cours.html"
     },
     {
+        "menu": "Activité",
+        "href": "activité.html"
+    },
+    {
         "menu": "Coachs",
         "href": "coachs.html"
     },
     {
         "menu": "Localisation",
         "href": "contacts.html#carte"
-    },
-    {
-        "menu": "Activité",
-        "href": "activité.html"
     },
     {
         "menu": "Contact",
