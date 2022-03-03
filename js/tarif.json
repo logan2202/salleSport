@@ -1,0 +1,26 @@
+[
+    {
+        "prix": "29",
+        "periode": "mois",
+        "intitulé": "Musculation+Cardio trainig Abonnement annuel",
+        "descriptionFace": "Tarif reduit etudiants26€ Formule speciale duo56€",
+        "titredos": "Musculation+Cardio training",
+        "descriptionDos": "Accès salle musculation Accès plateau de cardio training Bilan et programme individuel Suivi personnalisé Accès illimité au cours collectifs"
+    },
+    {
+        "prix": "34",
+        "periode": "mois",
+        "intitulé": "Cours collectifs+ Musculation+Cardio training Abonnement Annuel",
+        "descriptionFace": "Tarif reduit étudiants29€ Formule speciale Duo 62€",
+        "titredos": "Cours collectifs + Cardio training + Musculation",
+        "descriptionDos": "Accès salle musculation Accès plateau de cardio training Bilan et programme individuel Suivi personnalisé Accès illimité au cours collectifs"
+    },
+    {
+        "prix": "8",
+        "periode": "Séance",
+        "intitulé": "Cours collectifs+ Musculation+Cardio training Formule sans abonnement",
+        "descriptionFace": "1 seance decouverte offerte Carnet de 24 seances à 8€ soit 192€ Carnet de 48 séances à 6€ soit 288€ Formules nominatives valable 1 an",
+        "titredos": "Cours collectifs + Musculation + Cardio training",
+        "descriptionDos": "Accès salle musculation Accès plateau de cardio training Accès à 1 cours collectif"
+    }
+]

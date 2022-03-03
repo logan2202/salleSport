@@ -1,0 +1,158 @@
+
+main {
+    background: -moz-linear-gradient(left, #CE7E89 0%, #9098A5 43%, #979503 100%);
+    background: -webkit-linear-gradient(left, #CE7E89 0%, #9098A5 43%, #979503 100%);
+    background: linear-gradient(to right, #CE7E89 0%, #9098A5 43%, #979503 100%);
+    padding-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    border-radius: 15px 50px;
+    margin-bottom: 5%;
+}
+p {
+    color: white;
+}
+
+#demoparagraph {
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+    -webkit-column-gap: 10px;
+    -moz-column-gap: 10px;
+    column-gap: 10px;
+    -webkit-column-rule: 1px solid rgba(28, 110, 164, 0.5);
+    -moz-column-rule: 1px solid rgba(28, 110, 164, 0.5);
+    column-rule: 1px solid rgba(28, 110, 164, 0.5);
+    margin-left: 2%;
+}
+
+
+/*Les cards FLIPS*/
+
+body {
+    font-family: 'Ropa Sans', sans-serif;
+    background: #e1e1e1;
+}
+
+/* .card-body img {
+    height: 150px !important;
+    width: 220px;
+} */
+
+.card-text {
+    color: black
+}
+
+.flip-div {
+    cursor: pointer;
+}
+
+.flip-div:hover .back,
+.flip-div.hover .back {
+    -webkit-transform: rotateY(0deg);
+    -moz-transform: rotateY(0deg);
+    -o-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+}
+
+.flip-div:hover .front,
+.flip-div.hover .front {
+    -webkit-transform: rotateY(180deg);
+    -moz-transform: rotateY(180deg);
+    -o-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+}
+
+.flip-main {
+    -webkit-transition: 1s;
+    -webkit-transform-style: preserve-3d;
+    -ms-transition: 1s;
+    -moz-transition: 1s;
+    /* -moz-transform: perspective(1000px); */
+    -moz-transform-style: preserve-3d;
+    -ms-transform-style: preserve-3d;
+    transition: 1s;
+    transform-style: preserve-3d;
+    position: relative;
+}
+
+.front {
+    position: relative;
+    /* -webkit-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg); */
+    z-index: 2;
+    margin-bottom: 30px;
+}
+
+.back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    -webkit-transform: rotateY(-180deg);
+    -moz-transform: rotateY(-180deg);
+    -o-transform: rotateY(-180deg);
+    -ms-transform: rotateY(-180deg);
+    transform: rotateY(-180deg);
+    -webkit-box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+    -moz-box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+    box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+}
+
+.back ul li a {
+    font-size: 18px;
+}
+
+.front,
+.back {
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-transition: 1s;
+    -webkit-transform-style: preserve-3d;
+    -moz-transition: 1s;
+    -moz-transform-style: preserve-3d;
+    -o-transition: 1s;
+    -o-transform-style: preserve-3d;
+    -ms-transition: 1s;
+    -ms-transform-style: preserve-3d;
+    transition: 1s;
+    transform-style: preserve-3d;
+}
+
+i {
+    color: black
+}
+
+/* .row {
+    margin-left: 5%;
+} */
+
+
+/*Les titres, les liens*/
+
+h5 {
+    font-style: bold;
+    text-shadow: #4b4b4b 1px 1px;
+}
+
+h1 {
+    padding-top: 10px;
+    text-align: center;
+}
+
+#info {
+    font-size: 18px;
+    color: black;
+}
+
+.btn {
+    background-color: white;
+    border-color: #4b4b4b;
+}
+
+a {
+    color: white;
+}
