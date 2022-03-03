@@ -1,0 +1,135 @@
+
+.contact {
+    background: linear-gradient(70deg, #9098A5  50%, #CE7E89 50%);
+    text-align: center;
+    margin: auto;
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+    margin-top: 2%;
+    width: 650px;
+    box-shadow: 5px 5px 15px 5px #000000;
+}
+
+.laMap {
+    background: linear-gradient(70deg,  #979503 50%, #9098A5 50%);
+    border-radius: 10px ;
+    margin: auto;
+    width: 650px;
+    padding: 37px;
+    margin-top: 2%;
+    color: white;
+    text-align: center;
+    box-shadow: 5px 5px 15px 5px #000000;
+}
+.laMap a {
+    text-decoration: none;
+    color: white;
+}
+
+#envoie {
+    margin: auto;
+    margin-top: 2%;
+    border-radius: 40px;
+    width: 200px;
+    height: 50px;
+    background-color: #CE7E89 ;
+    color: white;
+}
+
+.input {
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    width: 100%;
+    border: white;
+}
+
+.inputmsg {
+    border-radius: 10px;
+    border: white;
+    width: 100%;
+}
+
+.bgFalse {
+    background-color: tomato;
+}
+
+.bgTrue {
+    background-color: green;
+}
+
+.false {
+    color: white;
+    background-color: red;
+    border-radius: 20px;
+    width: 350px;
+    margin: auto;
+}
+
+.btnValid {
+    align-items: center;
+}
+
+.mapboxgl-popup-close-button {
+    display: none;
+}
+
+.mapboxgl-popup-content {
+    text-align: center;
+    color: blue;
+}
+
+.icon {
+    width: 5%;
+}
+
+#map {
+    margin-top: 7%;
+    background-color: white;
+    height: 550px;
+    width: 100%;
+    border-radius: 25%;
+}
+
+#captcha iframe {
+    border-radius: 0%;
+}
+
+.captcha {
+    display: flex;
+    justify-content: center;
+}
+
+iframe{
+    border-radius: 50px  5px ;
+}
+
+@media screen and (max-width : 375px){
+    .laMap {
+        margin: 0%;
+        margin-top: 15%;
+    }  
+    .contact {
+        margin: 0%;
+        margin-top: 15%;
+    } 
+    .row {
+        --bs-gutter-x: 0; 
+    }
+}
+
+@media screen and (max-width : 990px) {
+    .contact {
+        padding-left: 5%;
+    }
+    .laMap {
+        padding-left: 5%;
+    }
+    main {
+        padding: 0%;
+    }
+}
+
+
