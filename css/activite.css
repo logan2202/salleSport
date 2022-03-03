@@ -1,0 +1,91 @@
+body, a {position: relative;}
+
+main{
+    display: flex;
+flex-direction: column;
+}
+
+#navDiv {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: rgb(75, 75, 75);
+    padding: 1em;
+    margin: 1.5em auto;
+    text-align: center;
+    border-radius: 50px;
+    border: 2px solid black;
+    width: fit-content;
+    
+}
+
+#navDiv a {
+    font-size: 1em;
+    color: white;
+    margin-left: 1.5em;
+    text-decoration: none;
+    padding-right: 1.5em;
+}
+.shad{
+    box-shadow: 4px 4px 3px black;
+}
+.divider{
+    margin: 2em auto;
+    background-color: #CE7E89;
+    width: 200px;
+    height: 1vh;
+    box-shadow : 4px 4px 5px rgb(75, 75, 75);
+}
+
+main h2{
+    text-align: center;
+    margin: 1em;
+    font-size: 40px;
+}
+main button { margin-top: 2em;
+    width: 90px;
+    height: 90px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 2px black;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+button img {
+    width: 70%;
+    height: 70%
+}
+
+h1{
+    text-align: center;
+    margin: 1em 0;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+
+.imgCSS img {
+    max-width: 60%;
+    max-height: 30vh;
+    float: left;
+    margin-right: 2em;
+    margin-bottom: 1em;
+    box-shadow: 8px 8px 3px black;
+    border-radius: 25px;
+}
+
+main p {
+    text-align: justify;
+}
+
+@media screen and (max-width:500px) {
+    main div img{
+    min-width: 100%;
+    min-height: 100%;
+}
+button img {
+    min-height: 70%!important;
+    min-width: 70%!important;
+}
+}
+
+footer{margin-top: 5%;}
